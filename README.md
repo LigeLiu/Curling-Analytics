@@ -18,7 +18,7 @@ The following is the list of the topics, or business questions, discussed in the
 
 + Report that summarize the findings (continuously updated)
 
-+ Database used for analyses (generated using Jordan Myslik’s [curling-analytics project]( https://github.com/jwmyslik/curling-analytics)
++ Database used for analyses (generated using Jordan Myslik’s [curling-analytics project]( https://github.com/jwmyslik/curling-analytics))
 
 + Jupyter notebooks that contains codes for analysis of each topic
 
