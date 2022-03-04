@@ -24,9 +24,9 @@ The following is the list of the topics, or business questions, discussed in the
 
 ## Contact
 
-Liu Lige
-University of British Columbia – Sauder School of Business
-Master of Business Analytics in progress
+Liu Lige<br>
+University of British Columbia – Sauder School of Business<br>
+Master of Business Analytics in progress<br>
 Email: [ligeliu2@gmail.com](mailto:ligeliu2@gmail.com)
 
 ## Reference
